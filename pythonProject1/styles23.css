@@ -1,0 +1,35 @@
+#header11 {
+    text-align: center;
+    color: yellow;
+}
+
+#header12 {
+    text-align: center;
+    color: blue;
+}
+
+#header1 {
+    color: red;
+}
+
+#header2 {
+    color: green;
+}
+
+p {
+    font-size: 26px;
+}
+
+.cl1 {
+    border: 3px solid green;
+    background-color: linen;
+    padding: 30px;
+    margin: 50px;
+}
+
+.cl2 {
+    border: 3px solid brown;
+    background-color: yellow;
+    padding: 42px;
+    margin: 100px;
+}
